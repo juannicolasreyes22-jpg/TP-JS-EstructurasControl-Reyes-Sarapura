@@ -1,0 +1,24 @@
+{
+  "name": "TP-JS-EstructurasControl-[Reyes,Sarapura]",
+  "version": "1.0.0",
+  "description": "",
+  "main": "variable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juannicolasreyes22-jpg/TP-JS-EstructurasControl-[Reyes,Sarapura].git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/juannicolasreyes22-jpg/TP-JS-EstructurasControl-[Reyes,Sarapura]/issues"
+  },
+  "homepage": "https://github.com/juannicolasreyes22-jpg/TP-JS-EstructurasControl-[Reyes,Sarapura]#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
